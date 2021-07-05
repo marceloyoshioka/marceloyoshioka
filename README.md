@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Peterson Marcelo Yoshioka stats](https://github-readme-stats.vercel.app/api?username=marceloyoshioka&show_icons=true&theme=radical)
+![Peterson Marcelo Yoshioka stats](https://github-readme-stats.vercel.app/api?username=marceloyoshioka&show_icons=true&theme= tokyonight)
 
 
 <!--
