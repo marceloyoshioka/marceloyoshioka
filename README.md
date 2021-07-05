@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/marceloyoshioka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloyoshioka&show_icons=true&theme=tokyonight" />
-</a>
-
 ![Peterson Marcelo Yoshioka stats](https://github-readme-stats.vercel.app/api?username=marceloyoshioka&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloyoshioka&layout=compact)](https://github.com/marceloyoshioka)
+
+<a href="https://www.linkedin.com/in/marcelo-yoshioka/" target="_blank">
+  <img align="center" alt="peterson_linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width: 100%;" />
+</a>
 
 <!--
 **marceloyoshioka/marceloyoshioka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
