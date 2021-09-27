@@ -1,15 +1,17 @@
-### Hi there 👋
-
 ![Peterson Marcelo Yoshioka stats](https://github-readme-stats.vercel.app/api?username=marceloyoshioka&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloyoshioka&layout=compact)](https://github.com/marceloyoshioka)
 
 
+
+<!--
+
+### Hi there 👋
+
 <a href="https://www.linkedin.com/in/marcelo-yoshioka/" target="_blank">
   <img align="center" alt="peterson_linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width: 100%;" />
 </a>
 
-<!--
 My Skills
   <img align="center" alt="peterson_linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" style="max-width: 100%;" />
   <img align="center" alt="peterson_linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;" />
